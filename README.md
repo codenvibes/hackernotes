@@ -1,2 +1,2 @@
-<h1 align="center">※※※ HACKER NOTES ※※※</h1>
+<h1 align="center"> HACKER NOTES </h1>
 
