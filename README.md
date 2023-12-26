@@ -6,3 +6,6 @@
 
 ### <a href="https://github.com/codenvibes/hackernotes/blob/master/notes/glossary.md">Glossary</a>
 
+
+<br>
+
