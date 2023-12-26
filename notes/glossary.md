@@ -186,6 +186,12 @@
 <details>
 <summary><b><a href=" "> </a></b></summary><br>
 
+A **payload** is a specific piece of code or software that is delivered to a target system as part of an exploit. The payload is designed to execute a certain action on the compromised system once the vulnerability is exploited.
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<summary><b><a href=" "> </a></b></summary><br>
+
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
