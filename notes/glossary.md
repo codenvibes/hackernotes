@@ -227,6 +227,13 @@ A **payload** is a specific piece of code or software that is delivered to a tar
 
 ## S
 <details>
+<summary><b><a href=" "> </a>SOC analyst</b></summary><br>
+
+A Security Operations Center (SOC) analyst is a cybersecurity professional responsible for monitoring and analyzing an organization's security posture. Their primary role is to detect, analyze, and respond to security incidents and threats within an organization's IT infrastructure.
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
 <summary><b><a href=" "> </a></b></summary><br>
 
 
