@@ -194,6 +194,15 @@ In the response returned by the `ifconfig` command look for the entry "ether". T
 
 ***Remember:*** *Once we change the MAC address, it doesn't stay forever, once you restart the system, the original MAC automatically replaces the spoofed one*
 
+Follow the steps and run the given commands,
+1) Disable the interface: `ifconfig etho down`
+Here eth0 is the name of the interface we want to change the MAC for.
+2) Change the MAC: ifconfig etho hw ether 00:11:22:33:44:55
+- Here 'hw' stands for hardware interface and '00:11:22:33:44:55' is the fake MAC that we have given to change the MAC. The Mac address will be changed to this given random address.
+3) Enable the interface: ifconfig etho up
+
+Now simply run the command ifconfig and check! The MAC address will be changed...
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
