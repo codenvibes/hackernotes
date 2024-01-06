@@ -111,6 +111,7 @@ ICMP stands for ***Internet Control Message Protocol***. It is a network layer p
 3. **Network Management**: ICMP messages are used by network administrators for various management tasks, such as discovering hosts on a network or checking the reachability of specific hosts.
 
 ICMP messages are encapsulated within IP packets, and they do not carry any application data. Instead, they provide feedback about the network itself. ICMP messages are often used by network devices (such as routers) to communicate with each other and with hosts on the network to ensure efficient and error-free packet delivery.
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
@@ -271,6 +272,7 @@ In this example:
 - The first line shows the target host (google.com) and its IP address (216.58.200.110).
 - The following lines show the individual ping responses, each indicating the size of the response, the sequence number of the ICMP echo request, the TTL value, and the round-trip time.
 - The summary at the end shows that 4 packets were transmitted and received without any loss. It also provides the minimum, average, maximum, and standard deviation of the round-trip times for the received packets.
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
