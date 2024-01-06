@@ -191,6 +191,13 @@ A **payload** is a specific piece of code or software that is delivered to a tar
 </details>
 
 <details>
+<summary><b><a href=" "> </a><code>ping</code></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
 <summary><b><a href=" "> </a></b></summary><br>
 
 
