@@ -100,12 +100,25 @@
 
 ## I
 <details>
+<summary><b><a href=" "> </a>ICMP</b></summary><br>
+
+ICMP stands for Internet Control Message Protocol. It is a network layer protocol that is used to send control messages and report errors between hosts and routers in an IP network. ICMP is an integral part of the Internet Protocol Suite (TCP/IP) and is used for various purposes, including:
+
+1. **Error Reporting**: ICMP is used to report errors in packet delivery. For example, if a router receives an IP packet that it cannot forward, it will send an ICMP message back to the source indicating the nature of the problem.
+
+2. **Diagnostic Tools**: ICMP is commonly used by diagnostic tools like `ping` and `traceroute`. `ping` uses ICMP echo requests and replies to test the reachability of a host and measure round-trip times, while `traceroute` uses ICMP time exceeded messages to map the route that packets take to reach a destination.
+
+3. **Network Management**: ICMP messages are used by network administrators for various management tasks, such as discovering hosts on a network or checking the reachability of specific hosts.
+
+ICMP messages are encapsulated within IP packets, and they do not carry any application data. Instead, they provide feedback about the network itself. ICMP messages are often used by network devices (such as routers) to communicate with each other and with hosts on the network to ensure efficient and error-free packet delivery.
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
 <summary><b><a href=" "> </a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
-
 
 
 <br>
