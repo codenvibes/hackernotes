@@ -166,8 +166,8 @@ ICMP messages are encapsulated within IP packets, and they do not carry any appl
 <details>
 <summary><b><a href=" "> </a>MAC Address</b></summary><br>
 
-- MAC Address stands for Media Access Control Address.
-- MAC Address ensures that the physical address of the computer is unique.
+MAC Address stands for Media Access Control Address.
+MAC Address ensures that the physical address of the computer is unique.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
@@ -175,8 +175,11 @@ ICMP messages are encapsulated within IP packets, and they do not carry any appl
 <details>
 <summary><b><a href=" "> </a>MAC spoofing </b></summary><br>
 
-- MAC spoofing is a technique for changing a factory-assigned Media Access Control (MAC) address of a network interface on a networked device
-- It's just like taking over someone else's identity and performing actions by impersonating them.
+MAC spoofing is a technique for changing a factory-assigned Media Access Control (MAC) address of a network interface on a networked device.
+
+It's just like taking over someone else's identity and performing actions by impersonating them.
+
+MAC Spoofing plays a major role when it comes to network hacking. MAC spoofing helps you overtake the identity of some other device in the network and plays a major role in one of the most dangerous attacks called Man-in-the-Middle.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
