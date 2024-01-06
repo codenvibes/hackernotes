@@ -102,7 +102,7 @@
 <details>
 <summary><b><a href=" "> </a>ICMP</b></summary><br>
 
-ICMP stands for Internet Control Message Protocol. It is a network layer protocol that is used to send control messages and report errors between hosts and routers in an IP network. ICMP is an integral part of the Internet Protocol Suite (TCP/IP) and is used for various purposes, including:
+ICMP stands for ***Internet Control Message Protocol***. It is a network layer protocol that is used to send control messages and report errors between hosts and routers in an IP network. ICMP is an integral part of the Internet Protocol Suite (TCP/IP) and is used for various purposes, including:
 
 1. **Error Reporting**: ICMP is used to report errors in packet delivery. For example, if a router receives an IP packet that it cannot forward, it will send an ICMP message back to the source indicating the nature of the problem.
 
