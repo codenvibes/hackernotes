@@ -197,8 +197,7 @@ In the response returned by the `ifconfig` command look for the entry "ether". T
 <br>
 
 Follow the steps and run the given commands,
-1) Disable the interface: `ifconfig etho down`
-Here eth0 is the name of the interface we want to change the MAC for.
+1) Disable the interface: `ifconfig etho down`<br>Here eth0 is the name of the interface we want to change the MAC for.<br>`down` is a parameter to the ifconfig command, indicating that the eth0 interface should be brought down or deactivated. When an interface is brought down, it effectively disables networking through that interface, meaning it will not be able to send or receive data until it is brought back up.
 2) Change the MAC: `ifconfig etho hw ether 00:11:22:33:44:55`<br> Here 'hw' stands for hardware interface and '00:11:22:33:44:55' is the fake MAC that we have given to change the MAC. The Mac address will be changed to this given random address.
 3) Enable the interface: `ifconfig etho up`
 
