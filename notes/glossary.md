@@ -173,7 +173,7 @@ ICMP messages are encapsulated within IP packets, and they do not carry any appl
 </details>
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>MAC spoofing </b></summary><br>
 
 - MAC spoofing is a technique for changing a factory-assigned Media Access Control (MAC) address of a network interface on a networked device
 - It's just like taking over someone else's identity and performing actions by impersonating them.
