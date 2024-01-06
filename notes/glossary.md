@@ -190,9 +190,9 @@ Run the command `ifconfig`
 
 Check the interface you want to change the MAC for, let's say it is the interface eth0.
 
-In the response returned by the ifconfig command look for the entry "ether". This will contain the corresponding MAC address.
+In the response returned by the `ifconfig` command look for the entry "ether". This will contain the corresponding MAC address.
 
-Remember: Once we change the MAC address, it doesn't stay forever, once you restart the system, the original MAC automatically replaces the spoofed one
+***Remember:*** *Once we change the MAC address, it doesn't stay forever, once you restart the system, the original MAC automatically replaces the spoofed one*
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
