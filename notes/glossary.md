@@ -181,6 +181,19 @@ It's just like taking over someone else's identity and performing actions by imp
 
 MAC Spoofing plays a major role when it comes to network hacking. MAC spoofing helps you overtake the identity of some other device in the network and plays a major role in one of the most dangerous attacks called Man-in-the-Middle.
 
+Below are the steps to change the MAC address,
+- Disable the interface you want to change the MAC address for.
+- Change the MAC address
+- Enable the interface
+
+Run the command `ifconfig`
+
+Check the interface you want to change the MAC for, let's say it is the interface eth0.
+
+In the response returned by the ifconfig command look for the entry "ether". This will contain the corresponding MAC address.
+
+Remember: Once we change the MAC address, it doesn't stay forever, once you restart the system, the original MAC automatically replaces the spoofed one
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
