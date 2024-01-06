@@ -249,6 +249,7 @@ done
 Save this script to a file (e.g., `ping_range.sh`), make it executable with `chmod +x ping_range.sh`, and then run it with `./ping_range.sh`. This script will send a single ICMP echo request to each IP address in the range and print the results for each address that responds.
 
 Remember that using `ping` to scan a large range of IP addresses can generate a lot of network traffic and may be considered intrusive or abusive by network administrators. Always make sure you have permission to perform such scans on a network.
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 
 The output of the `ping` command provides information about the status of the network connection between your computer and the target host (specified by its IP address or hostname).
