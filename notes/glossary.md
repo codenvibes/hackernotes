@@ -235,6 +235,27 @@ Save this script to a file (e.g., `ping_range.sh`), make it executable with `chm
 
 Remember that using `ping` to scan a large range of IP addresses can generate a lot of network traffic and may be considered intrusive or abusive by network administrators. Always make sure you have permission to perform such scans on a network.
 <br><p align="center">※※※※※※※※※※※※</p><br>
+
+The output of the `ping` command provides information about the status of the network connection between your computer and the target host (specified by its IP address or hostname).
+
+Here's an example of a typical `ping` output:
+```
+PING google.com (216.58.200.110) 56(84) bytes of data.
+64 bytes from 216.58.200.110: icmp_seq=1 ttl=55 time=13.2 ms
+64 bytes from 216.58.200.110: icmp_seq=2 ttl=55 time=12.8 ms
+64 bytes from 216.58.200.110: icmp_seq=3 ttl=55 time=12.8 ms
+64 bytes from 216.58.200.110: icmp_seq=4 ttl=55 time=12.7 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3001ms
+rtt min/avg/max/mdev = 12.727/12.936/13.236/0.205 ms
+```
+
+In this example:
+- The first line shows the target host (google.com) and its IP address (216.58.200.110).
+- The following lines show the individual ping responses, each indicating the size of the response, the sequence number of the ICMP echo request, the TTL value, and the round-trip time.
+- The summary at the end shows that 4 packets were transmitted and received without any loss. It also provides the minimum, average, maximum, and standard deviation of the round-trip times for the received packets.
+<br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
 <details>
