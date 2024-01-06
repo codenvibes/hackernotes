@@ -114,11 +114,13 @@ ICMP messages are encapsulated within IP packets, and they do not carry any appl
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
+<details>
 <summary><b><a href=" "> </a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
+
 
 
 <br>
