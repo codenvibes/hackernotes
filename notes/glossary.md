@@ -201,7 +201,14 @@ Follow the steps and run the given commands,
 2) Change the MAC: `ifconfig etho hw ether 00:11:22:33:44:55`<br> Here 'hw' stands for hardware interface and '00:11:22:33:44:55' is the fake MAC that we have given to change the MAC. The Mac address will be changed to this given random address.
 3) Enable the interface: `ifconfig etho up`
 
-Now simply run the command ifconfig and check! The MAC address will be changed...
+Now simply run the command `ifconfig` and check! The MAC address will be changed...
+
+Changing the MAC address on windows:
+Changing MAC on Kali was really interesting and simple. Let's check how it can be done on Windows. For this, we will use a tool called Technitium MAC Address Changer.
+
+It is a freeware utility to spoof the MAC address instantly.
+
+You can download it in your windows machine from here: https://tinyurl.com/zsrkn8y
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
