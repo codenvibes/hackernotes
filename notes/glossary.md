@@ -210,6 +210,12 @@ It is a freeware utility to spoof the MAC address instantly.
 
 You can download it in your windows machine from here: https://tinyurl.com/zsrkn8y
 
+```
+ipconfig /all | Select-String -Pattern "Physical Address"
+```
+When you run this command, PowerShell will display only the lines from the `ipconfig /all` output that contain the "Physical Address" information for each network interface. Each line displayed will correspond to a network adapter and its associated MAC address.
+
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
