@@ -206,6 +206,33 @@ Now simply run the command `ifconfig` and check! The MAC address will be changed
 Changing the MAC address on windows:
 Changing MAC on Kali was really interesting and simple. Let's check how it can be done on Windows. For this, we will use a tool called Technitium MAC Address Changer.
 
+To use Technitium MAC Address Changer to change your MAC address and then revert it back to the original one, you can follow these steps:
+
+1. **Download and Install Technitium MAC Address Changer**:
+   - If you haven't already, download and install Technitium MAC Address Changer from their official website (https://technitium.com/tmac/).
+
+2. **Launch Technitium MAC Address Changer**:
+   - Open the Technitium MAC Address Changer application on your Windows computer.
+
+3. **Select Network Adapter**:
+   - From the drop-down list of network adapters, select the adapter for which you want to change the MAC address.
+
+4. **Change MAC Address**:
+   - Click on the "Change" button to randomly generate a new MAC address or manually enter the MAC address you want to use. Note that the MAC address should be in the format xx-xx-xx-xx-xx-xx (where x is a hexadecimal digit).
+
+5. **Apply Changes**:
+   - Click on the "Change Now!" button to apply the new MAC address to the selected network adapter.
+
+6. **Verify the Change**:
+   - To verify that the MAC address has been changed, you can use the `ipconfig /all` command in Command Prompt or PowerShell and look for the "Physical Address" under the network adapter you modified. It should now display the new MAC address.
+
+7. **Revert to Original MAC Address**:
+   - If you want to revert to the original MAC address, simply select the network adapter again in Technitium MAC Address Changer, click on the "Restore Original" button, and then click "Change Now!" to apply the change.
+
+8. **Verify the Reversion**:
+   - Again, use the `ipconfig /all` command to verify that the MAC address has been reverted to its original value.
+
+
 It is a freeware utility to spoof the MAC address instantly.
 
 You can download it in your windows machine from here: https://tinyurl.com/zsrkn8y
