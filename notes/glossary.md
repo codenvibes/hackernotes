@@ -69,6 +69,37 @@
 It's also called Information Gathering or reconnaissance: This involves gathering as much information as possible about the target system or network. This can include information about the network infrastructure, system configurations, and potential entry points for exploitation. Methods for footprinting include passive information gathering (e.g., searching online sources, social engineering) and active techniques (e.g., network scanning). ***Footprinting helps us in deciding the path we have to follow to execute a cyberattack.***
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
+
+**Why is information gathering done?**
+
+Imagine a scenario, where you went hunting in a forest.
+
+How do we decide which weapon will we need and what preparations we have to do before actually searching for a hunt?
+
+We look for footprints of animals that give us an idea which animal went from here and in which direction it went.
+
+Based on these footprints, we decide our plan, if it is a tiger, we need to prepare in different ways, and if it's a deer, the plan will be different than that of the tiger.
+
+Similarly, is the case of hacking, footprinting gives us an idea about the target.
+
+We try to gather as much information about the target as possible.
+
+Let us say, we want to hack a website, the footprinting will help us gather basic information about that website.
+
+We will look for which technology that website uses. If it is a PHP Website, the plan will be different, while if it is an ASP website the approach will be different.
+
+So, using footprint we can decide what tools will we need and what techniques can be used to hack the target.
+
+If you do not perform footprinting, then we will end up firing bullets in the dark.
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
+<summary><b><a href=" "> </a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
 
