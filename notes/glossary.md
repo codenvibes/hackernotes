@@ -175,38 +175,34 @@ MAC Address ensures that the physical address of the computer is unique.
 <details>
 <summary><b><a href=" "> </a>MAC spoofing </b></summary><br>
 
-MAC spoofing is a technique for changing a factory-assigned Media Access Control (MAC) address of a network interface on a networked device.
+**MAC Spoofing Overview:**
 
-It's just like taking over someone else's identity and performing actions by impersonating them.
+MAC spoofing is a technique used to change the Media Access Control (MAC) address of a network interface on a device. This allows a user to impersonate another device on a network and potentially carry out unauthorized actions.
 
-MAC Spoofing plays a major role when it comes to network hacking. MAC spoofing helps you overtake the identity of some other device in the network and plays a major role in one of the most dangerous attacks called Man-in-the-Middle.
+**Importance in Network Hacking:**
 
-Below are the steps to change the MAC address,
-- Disable the interface you want to change the MAC address for.
-- Change the MAC address
-- Enable the interface
+MAC spoofing is significant in network hacking, particularly in attacks like Man-in-the-Middle, where an attacker intercepts communication between two parties.
 
-Run the command `ifconfig`
+**Steps to Change MAC Address:**
 
-Check the interface you want to change the MAC for, let's say it is the interface eth0.
-
-In the response returned by the `ifconfig` command look for the entry "ether". This will contain the corresponding MAC address.
+1. Disable the interface you want to change.
+2. Change the MAC address.
+3. Enable the interface.
 
 ***Remember:*** *Once we change the MAC address, it doesn't stay forever, once you restart the system, the original MAC automatically replaces the spoofed one*
 
-<br>
+**Command Line Instructions:**
 
-Follow the steps and run the given commands,
+To change the MAC address using the command line:
+
 1) Disable the interface: `ifconfig etho down`<br>Here eth0 is the name of the interface we want to change the MAC for.<br>`down` is a parameter to the ifconfig command, indicating that the eth0 interface should be brought down or deactivated. When an interface is brought down, it effectively disables networking through that interface, meaning it will not be able to send or receive data until it is brought back up.
 2) Change the MAC: `ifconfig etho hw ether 00:11:22:33:44:55`<br> Here 'hw' stands for hardware interface and '00:11:22:33:44:55' is the fake MAC that we have given to change the MAC. The Mac address will be changed to this given random address.
 3) Enable the interface: `ifconfig etho up`
+4) Now simply run the command `ifconfig` and check! The MAC address will be changed...
 
-Now simply run the command `ifconfig` and check! The MAC address will be changed...
+**Windows MAC Address Change:**
 
-Changing the MAC address on windows:
-Changing MAC on Kali was really interesting and simple. Let's check how it can be done on Windows. For this, we will use a tool called Technitium MAC Address Changer.
-
-To use Technitium MAC Address Changer to change your MAC address and then revert it back to the original one, you can follow these steps:
+Technitium is a freeware utility to spoof the MAC address instantly. To change the MAC address on Windows using Technitium MAC Address Changer:
 
 1. **Download and Install Technitium MAC Address Changer**:
    - If you haven't already, download and install Technitium MAC Address Changer from their official website (https://technitium.com/tmac/).
@@ -232,37 +228,17 @@ To use Technitium MAC Address Changer to change your MAC address and then revert
 8. **Verify the Reversion**:
    - Again, use the `ipconfig /all` command to verify that the MAC address has been reverted to its original value.
 
+**Preventing MAC Spoofing:**
 
-It is a freeware utility to spoof the MAC address instantly.
+- MAC Locking: Lock a MAC address to a specific physical port on the switch to prevent its use on other ports.
+- ARP Tables: Use static ARP tables in combination with routing tables to prevent spoofing.
 
-You can download it in your windows machine from here: https://tinyurl.com/zsrkn8y
 
-```
-ipconfig /all | Select-String -Pattern "Physical Address"
-```
-When you run this command, PowerShell will display only the lines from the `ipconfig /all` output that contain the "Physical Address" information for each network interface. Each line displayed will correspond to a network adapter and its associated MAC address.
-
-Preventing MAC Spoofing
-
-MAC spoofing can be a big problem on shared-segment networks. However, the current generations of Ethernet switches are offering us a basis for defeating this kind of intrusion by offering us MAC locking.
-
-MAC Locking
-
-It is possible to lock a MAC address to a specific physical port on the switch.
-
-When MAC-locking locks a MAC/port combination, it prevents the MAC address from being used from any other port on the segment.
-
-This combined with static ARP and MAC/IP filters could totally eradicate the spoofing possibilities on a shared- segment network.
-
-Expensive, managed switches allow port locking, but the disadvantage is the overhead cost.
-
-Using ARP Tables
-
-The use of the (static) ARP table in combination with the routing table could prevent most of the shared-segment spoofing possibilities.
-
-Most operating systems by default do not check if a received IP datagram originated from a local MAC address matches the MAC addresses in the static ARP table, or if the external datagram matches the MAC address of one of the known network routers that have a valid route entry in the routing table.
-
-Unauthorized MAC addresses are therefore exposed, and the decision to take defensive action can then take place.
+Real Life Facts
+- MAC Address is not an attack that will give you access to systems, but it will play a very important role in network hacking.
+- MAC Spoofing is one of the important steps in Wifi Hacking.
+- Heard of something called MITM (Man In The Middle) Attacks? MAC Spoofing plays a very important role there as well.
+- You can change your MAC to the MAC of another system and pretend to be someone else. Thus you can sit in the middle of the network and intercept it.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
