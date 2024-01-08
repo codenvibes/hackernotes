@@ -246,6 +246,37 @@ Real Life Facts
 <details>
 <summary><b><a href=" "> </a>MAC Locking</b></summary><br>
 
+Performing MAC locking involves configuring your network switch to bind a specific MAC address to a physical port, effectively preventing that MAC address from being used on any other port on the switch. Here's a general overview of how you might perform MAC locking on a managed switch:
+
+1. **Access Switch Configuration:**
+   - Connect to your network switch using a console cable or through a web-based management interface provided by the switch. You might need administrative credentials to access the switch configuration.
+
+2. **Enter Configuration Mode:**
+   - Once you have access to the switch, enter the configuration mode. This can vary depending on the switch model and its management interface. For example, on a Cisco switch, you might enter configuration mode by typing `configure terminal` in the command-line interface (CLI).
+
+3. **Identify the Port and MAC Address:**
+   - Identify the port on which you want to lock the MAC address and the MAC address you want to bind to that port. You might need to know the MAC address of the device you want to lock or have it connected to the port during this process.
+
+4. **Configure MAC Locking:**
+   - Use the appropriate command to configure MAC locking for the specific port. The command syntax can vary based on the switch's operating system and model. Here's a general example:
+     ```
+     interface <interface>
+     switchport port-security
+     switchport port-security mac-address <mac-address>
+     switchport port-security violation restrict
+     ```
+     Replace `<interface>` with the actual interface identifier (e.g., `Ethernet0/1`), and `<mac-address>` with the MAC address you want to lock.
+
+5. **Save Configuration:**
+   - Once you have configured MAC locking for the port, save the configuration to make it persistent across reboots. The command to save the configuration varies by switch, but it might be something like `write memory` or `copy running-config startup-config`.
+
+6. **Verify Configuration:**
+   - Verify that the MAC locking configuration is applied correctly by checking the switch's configuration and the status of the port. You can use commands like `show running-config` or `show interfaces <interface>` to verify the settings.
+
+7. **Testing:**
+   - Test the MAC locking by attempting to connect a different device with a different MAC address to the locked port. The switch should prevent the new device from accessing the network through that port.
+
+Keep in mind that the exact commands and procedures can vary depending on the switch manufacturer, model, and software version. It's important to consult the documentation specific to your switch for detailed instructions tailored to your environment.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
