@@ -95,6 +95,8 @@ Here are some online tools that might help to gather information about the targe
 
 2. **DomainTools** <br>DomainTools offers a comprehensive set of tools for domain name research, including WHOIS lookup, domain monitoring, and historical domain data.<br>Get started: https://whois.domaintools.com/
 
+3. **Pipl.com** <br>It is one of the most useful online information-gathering tools.<br>It will give all information about a person that is present on their various social media sites or the data that has been leaked. The information will be sufficient enough to know a person's strength, weakness, location, and other such details.<br>Get started: https://pipl.com/
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
