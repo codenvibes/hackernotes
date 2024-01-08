@@ -93,7 +93,7 @@ Here are some online tools that might help to gather information about the targe
 
 1. **Archive.org** <br>Sometimes you need to scrape data from the websites of your target. Archive.org is used to gather information from the old versions or the closed websites of your target.<br>It is like an internet time machine. The sites are cloned onto the different servers and you can access it to gather data by just entering the domain.<br>Get started: https://archive.org/
 
-2. **Who.is** <br>It is used to search the who.is database, look up domain and IP owner information, and check out dozens of other statistics.<br>You can get all the data you need about a domain and everything associated with that domain anytime with a single search.<br>Get started: https://who.is/
+2. **DomainTools** <br>DomainTools offers a comprehensive set of tools for domain name research, including WHOIS lookup, domain monitoring, and historical domain data.<br>Get started: https://whois.domaintools.com/
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
