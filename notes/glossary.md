@@ -66,7 +66,7 @@
 <details>
 <summary><b><a href=" "> </a>Footprinting</b></summary><br>
 
-It's also called Information Gathering or reconnaissance: This involves gathering as much information as possible about the target system or network. This can include information about the network infrastructure, system configurations, and potential entry points for exploitation. Methods for footprinting include passive information gathering (e.g., searching online sources, social engineering) and active techniques (e.g., network scanning). ***Footprinting helps us in deciding the path we have to follow to execute a cyberattack.***
+It's the first step of hacking and is also called Information Gathering or reconnaissance: This involves gathering as much information as possible about the target system or network. This can include information about the network infrastructure, system configurations, and potential entry points for exploitation. Methods for footprinting include passive information gathering (e.g., searching online sources, social engineering) and active techniques (e.g., network scanning). ***Footprinting helps us in deciding the path we have to follow to execute a cyberattack.***
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 
