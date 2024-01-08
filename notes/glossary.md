@@ -242,6 +242,27 @@ ipconfig /all | Select-String -Pattern "Physical Address"
 ```
 When you run this command, PowerShell will display only the lines from the `ipconfig /all` output that contain the "Physical Address" information for each network interface. Each line displayed will correspond to a network adapter and its associated MAC address.
 
+Preventing MAC Spoofing
+
+MAC spoofing can be a big problem on shared-segment networks. However, the current generations of Ethernet switches are offering us a basis for defeating this kind of intrusion by offering us MAC locking.
+
+MAC Locking
+
+It is possible to lock a MAC address to a specific physical port on the switch.
+
+When MAC-locking locks a MAC/port combination, it prevents the MAC address from being used from any other port on the segment.
+
+This combined with static ARP and MAC/IP filters could totally eradicate the spoofing possibilities on a shared- segment network.
+
+Expensive, managed switches allow port locking, but the disadvantage is the overhead cost.
+
+Using ARP Tables
+
+The use of the (static) ARP table in combination with the routing table could prevent most of the shared-segment spoofing possibilities.
+
+Most operating systems by default do not check if a received IP datagram originated from a local MAC address matches the MAC addresses in the static ARP table, or if the external datagram matches the MAC address of one of the known network routers that have a valid route entry in the routing table.
+
+Unauthorized MAC addresses are therefore exposed, and the decision to take defensive action can then take place.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
