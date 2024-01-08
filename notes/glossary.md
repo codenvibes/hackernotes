@@ -99,6 +99,8 @@ Here are some online tools that might help to gather information about the targe
 
 4. **Insecam.org** <br>All the cameras connected to the internet are available and we can access them. It is the world's biggest directory of online surveillance security cameras.<br>Select a country to watch live street, traffic, parking, office, road, beach, earth online webcams. Now you can search for live webcams around the world.<br>Get started: http://www.insecam.org/en/
 
+5. **Exploit-db.com** <br>It is used to see loT devices, usernames, passwords, etc and other available information.<br>Even it contains various scripts and tools that might have been used in some real hacks.<br>Get started: https://www.exploit-db.com/
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
