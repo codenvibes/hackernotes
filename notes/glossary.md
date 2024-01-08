@@ -94,6 +94,7 @@ Here are some online tools that might help to gather information about the targe
 <br>
 
 **Archive.org**
+
 Sometimes you need to scrape data from the websites of your target. Archive.org is used to gather information from the old versions or the closed websites of your target.
 It is like an internet time machine. The sites are cloned onto the different servers and you can access it to gather data by just entering the domain.
 Get started: https://archive.org/
