@@ -179,13 +179,13 @@ MAC Address ensures that the physical address of the computer is unique.
 
 MAC spoofing is a technique used to change the Media Access Control (MAC) address of a network interface on a device. This allows a user to impersonate another device on a network and potentially carry out unauthorized actions.
 
-<br>
+<br><p align="center">※※※※※※※※※※※※</p><br>
 
 **Importance in Network Hacking:**
 
 MAC spoofing is significant in network hacking, particularly in attacks like Man-in-the-Middle, where an attacker intercepts communication between two parties.
 
-<br>
+<br><p align="center">※※※※※※※※※※※※</p><br>
 
 **Steps to Change MAC Address:**
 
@@ -195,7 +195,7 @@ MAC spoofing is significant in network hacking, particularly in attacks like Man
 
 ***Remember:*** *Once we change the MAC address, it doesn't stay forever, once you restart the system, the original MAC automatically replaces the spoofed one*
 
-<br>
+<br><p align="center">※※※※※※※※※※※※</p><br>
 
 **Command Line Instructions:**
 
@@ -206,7 +206,7 @@ To change the MAC address using the command line:
 3) Enable the interface: `ifconfig etho up`
 4) Now simply run the command `ifconfig` and check! The MAC address will be changed...
 
-<br>
+<br><p align="center">※※※※※※※※※※※※</p><br>
 
 **Windows MAC Address Change:**
 
@@ -236,7 +236,7 @@ Technitium is a freeware utility to spoof the MAC address instantly. To change t
 8. **Verify the Reversion**:
    - Again, use the `ipconfig /all` command to verify that the MAC address has been reverted to its original value.
 
-<br>
+<br><p align="center">※※※※※※※※※※※※</p><br>
 
 **Preventing MAC Spoofing:**
 
@@ -244,7 +244,7 @@ Technitium is a freeware utility to spoof the MAC address instantly. To change t
 - ARP Tables: Use static ARP tables in combination with routing tables to prevent spoofing.
 
 
-<br>
+<br><p align="center">※※※※※※※※※※※※</p><br>
 
 **Real Life Facts**
 - MAC Address is not an attack that will give you access to systems, but it will play a very important role in network hacking.
