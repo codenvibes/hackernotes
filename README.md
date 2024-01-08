@@ -12,7 +12,7 @@
 
 Generally, there are five steps in Hacking that one needs to follow. These are,
 
-1. **Footprinting or Information Gathering**: This involves gathering as much information as possible about the target system or network. This can include information about the network infrastructure, system configurations, and potential entry points for exploitation. Methods for footprinting include passive information gathering (e.g., searching online sources, social engineering) and active techniques (e.g., network scanning).
+1. **Footprinting or Information Gathering**: This involves gathering as much information as possible about the target system or network. This can include information about the network infrastructure, system configurations, and potential entry points for exploitation. Methods for footprinting include passive information gathering (e.g., searching online sources, social engineering) and active techniques (e.g., network scanning). ***Footprinting helps us in deciding the path we have to follow during hacking.***
 
 2. **Scanning**: In this phase, the hacker uses tools and techniques to gather more detailed information about the target network or system. This can include scanning for open ports, identifying active hosts, and mapping out the network topology. The goal is to identify potential vulnerabilities that can be exploited.
 
