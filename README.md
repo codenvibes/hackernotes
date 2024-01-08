@@ -6,6 +6,8 @@
 
 ### <a href="https://github.com/codenvibes/hackernotes/blob/master/notes/glossary.md">Glossary</a>
 
+<br><p align="center">※※※※※※※※※※※※</p><br>
+
 Generally, there are five steps in Hacking that one needs to follow. These are,
 
 1. **Footprinting or Information Gathering**: This involves gathering as much information as possible about the target system or network. This can include information about the network infrastructure, system configurations, and potential entry points for exploitation. Methods for footprinting include passive information gathering (e.g., searching online sources, social engineering) and active techniques (e.g., network scanning).
