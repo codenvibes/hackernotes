@@ -86,6 +86,19 @@ So, using footprint we can decide what tools will we need and what techniques ca
 If you do not perform footprinting, then we will end up firing bullets in the dark.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
+
+You know what footprinting is and why it is done.
+You also know the importance of it. It's time to dive deep and see some practical implementation.
+Here are some online tools that might help to gather information about the target.
+
+<br>
+
+**Archive.org**
+Sometimes you need to scrape data from the websites of your target. Archive.org is used to gather information from the old versions or the closed websites of your target.
+It is like an internet time machine. The sites are cloned onto the different servers and you can access it to gather data by just entering the domain.
+Get started: https://archive.org/
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
 <details>
