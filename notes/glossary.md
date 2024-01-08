@@ -97,6 +97,8 @@ Here are some online tools that might help to gather information about the targe
 
 3. **Pipl.com** <br>It is one of the most useful online information-gathering tools.<br>It will give all information about a person that is present on their various social media sites or the data that has been leaked. The information will be sufficient enough to know a person's strength, weakness, location, and other such details.<br>Get started: https://pipl.com/
 
+4. **Insecam.org** <br>All the cameras connected to the internet are available and we can access them. It is the world's biggest directory of online surveillance security cameras.<br>Select a country to watch live street, traffic, parking, office, road, beach, earth online webcams. Now you can search for live webcams around the world.<br>Get started: http://www.insecam.org/en/
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
