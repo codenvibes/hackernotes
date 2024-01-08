@@ -179,9 +179,13 @@ MAC Address ensures that the physical address of the computer is unique.
 
 MAC spoofing is a technique used to change the Media Access Control (MAC) address of a network interface on a device. This allows a user to impersonate another device on a network and potentially carry out unauthorized actions.
 
+<br>
+
 **Importance in Network Hacking:**
 
 MAC spoofing is significant in network hacking, particularly in attacks like Man-in-the-Middle, where an attacker intercepts communication between two parties.
+
+<br>
 
 **Steps to Change MAC Address:**
 
@@ -191,6 +195,8 @@ MAC spoofing is significant in network hacking, particularly in attacks like Man
 
 ***Remember:*** *Once we change the MAC address, it doesn't stay forever, once you restart the system, the original MAC automatically replaces the spoofed one*
 
+<br>
+
 **Command Line Instructions:**
 
 To change the MAC address using the command line:
@@ -199,6 +205,8 @@ To change the MAC address using the command line:
 2) Change the MAC: `ifconfig etho hw ether 00:11:22:33:44:55`<br> Here 'hw' stands for hardware interface and '00:11:22:33:44:55' is the fake MAC that we have given to change the MAC. The Mac address will be changed to this given random address.
 3) Enable the interface: `ifconfig etho up`
 4) Now simply run the command `ifconfig` and check! The MAC address will be changed...
+
+<br>
 
 **Windows MAC Address Change:**
 
@@ -228,13 +236,17 @@ Technitium is a freeware utility to spoof the MAC address instantly. To change t
 8. **Verify the Reversion**:
    - Again, use the `ipconfig /all` command to verify that the MAC address has been reverted to its original value.
 
+<br>
+
 **Preventing MAC Spoofing:**
 
 - MAC Locking: Lock a MAC address to a specific physical port on the switch to prevent its use on other ports.
 - ARP Tables: Use static ARP tables in combination with routing tables to prevent spoofing.
 
 
-Real Life Facts
+<br>
+
+**Real Life Facts**
 - MAC Address is not an attack that will give you access to systems, but it will play a very important role in network hacking.
 - MAC Spoofing is one of the important steps in Wifi Hacking.
 - Heard of something called MITM (Man In The Middle) Attacks? MAC Spoofing plays a very important role there as well.
