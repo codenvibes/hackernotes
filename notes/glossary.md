@@ -28,6 +28,13 @@
 
 ## C
 <details>
+<summary><b><a href=" "> </a>CIA Triangle</b></summary><br>
+<img src="https://github.com/codenvibes/hackernotes/blob/master/notes/images/2024-01-09%2016_29_10-5.%20Security%20Basics%20and%20CIA%20Triangle%20-%20Zero%20To%20Mastery%20Academy%20-%201920x1080%20726K.m.png">
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
 <summary><b><a href=" "> </a></b></summary><br>
 
 
