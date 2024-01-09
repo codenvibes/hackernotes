@@ -202,8 +202,11 @@ ICMP messages are encapsulated within IP packets, and they do not carry any appl
 
 ## L
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>Least Privilelege (POLP)</b></summary><br>
 
+Least Privilege (POLP) is a principle in computer security that advocates providing users, programs, and processes with only the minimum level of access or permissions needed to perform their tasks. This principle is based on the idea that limiting access rights for users and systems to only what is strictly required can help reduce the potential impact of security breaches or errors.
+
+By following the principle of least privilege, organizations can minimize the risk of unauthorized access to sensitive data or system resources.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
