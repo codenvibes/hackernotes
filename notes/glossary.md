@@ -47,6 +47,14 @@
 
 ## D
 <details>
+<summary><b><a href=" "> </a>Detailed Defense Mechanism</b></summary><br>
+
+Detailed defense mechanisms in cybersecurity refer to a comprehensive approach to protecting computer systems, networks, and data from unauthorized access, cyberattacks, and other security threats. These mechanisms are designed to provide multiple layers of security to mitigate the risks posed by various cyber threats.
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
 <summary><b><a href=" "> </a></b></summary><br>
 
 
@@ -207,6 +215,13 @@ ICMP messages are encapsulated within IP packets, and they do not carry any appl
 Least Privilege (POLP) is a principle in computer security that advocates providing users, programs, and processes with only the minimum level of access or permissions needed to perform their tasks. This principle is based on the idea that limiting access rights for users and systems to only what is strictly required can help reduce the potential impact of security breaches or errors.
 
 By following the principle of least privilege, organizations can minimize the risk of unauthorized access to sensitive data or system resources.
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
+<summary><b><a href=" "> </a></b></summary><br>
+
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
