@@ -49,7 +49,7 @@
 <details>
 <summary><b><a href=" "> </a>Detailed Defense Mechanism</b></summary><br>
 
-Detailed defense mechanisms in cybersecurity refer to a comprehensive approach to protecting computer systems, networks, and data from unauthorized access, cyberattacks, and other security threats. These mechanisms are designed to provide multiple layers of security to mitigate the risks posed by various cyber threats.
+Detailed defense mechanisms in cybersecurity refer to a comprehensive approach to protecting computer systems, networks, and data from unauthorized access, cyberattacks, and other security threats. These mechanisms are designed to provide ***multiple layers of security*** to mitigate the risks posed by various cyber threats.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
