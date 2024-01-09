@@ -5,8 +5,8 @@
 <br>
 <hr>
 
-### <a href="https://github.com/codenvibes/hackernotes/blob/master/notes/glossary.md">Glossary</a>
-### <a href="https://getcertified.ecpi.edu/wp-content/uploads/2018/03/CompTIA-APlus-901-Acronyms.pdf">CompTIA A+ Acronyms</a>
+<a href="https://github.com/codenvibes/hackernotes/blob/master/notes/glossary.md">Glossary</a>
+<a href="https://getcertified.ecpi.edu/wp-content/uploads/2018/03/CompTIA-APlus-901-Acronyms.pdf">CompTIA A+ Acronyms</a>
 
 
 <hr>
