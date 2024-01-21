@@ -399,6 +399,14 @@ Keep in mind that the exact commands and procedures can vary depending on the sw
 
 ## N
 <details>
+<summary><b><a href=" "> </a>nmap</b></summary><br>
+
+Nmap, short for "***Network Mapper***," is a popular open-source tool used for network discovery and security auditing. It's used by network administrators and security professionals to discover hosts and services on a computer network, thus creating a "map" of the network. Nmap sends specially crafted packets to target hosts and then analyzes the responses to determine which hosts are available on the network, what services (such as web servers, FTP servers, etc.) those hosts are offering, what operating systems they are running, what type of firewall they are using, and other valuable information. Nmap is known for its flexibility and extensive feature set, making it a powerful tool for network exploration and security auditing.
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
 <summary><b><a href=" "> </a></b></summary><br>
 
 
