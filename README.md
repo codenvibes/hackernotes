@@ -22,8 +22,9 @@
 
 
 <details>
-<summary><b><a href=""></a></b></summary><br>
+<summary><b><a href=""></a>HTB - Learn the basics of Penetration Testing</b></summary><br>
 
+- [Meow Write-up.pdf](https://github.com/codenvibes/hackernotes/blob/master/notes/Meow%20Write-up.pdf)
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
