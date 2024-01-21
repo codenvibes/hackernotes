@@ -5,9 +5,28 @@
 <br>
 <hr>
 
-<a href="https://github.com/codenvibes/hackernotes/blob/master/notes/glossary.md">Glossary</a>
+<details>
+<summary><b><a href="https://github.com/codenvibes/hackernotes/blob/master/notes/glossary.md">Glossary</a></b></summary><br>
 
-<a href="https://getcertified.ecpi.edu/wp-content/uploads/2018/03/CompTIA-APlus-901-Acronyms.pdf">CompTIA A+ Acronyms</a>
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href="https://getcertified.ecpi.edu/wp-content/uploads/2018/03/CompTIA-APlus-901-Acronyms.pdf">CompTIA A+ Acronyms</a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=""></a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
 
 
 <hr>
