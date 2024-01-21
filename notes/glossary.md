@@ -571,6 +571,16 @@ In computer security, shoulder surfing is a type of social engineering technique
 
 ## T
 <details>
+<summary><b><a href=" "> </a></b>telnet</summary><br>
+
+Telnet is a network protocol used on the Internet or local area networks to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection. Telnet was developed in the early days of the Internet and was widely used for remote terminal connections to other computers. It allows a user on one computer to log into another computer that is part of the same network, and then to interact with the programs and data on that computer as if it were directly connected to it.
+
+While Telnet was once commonly used, it has largely been replaced by more secure protocols like SSH (Secure Shell) due to security concerns. Telnet sends data, including passwords, in plain text, making it susceptible to interception and unauthorized access. As a result, it's generally not recommended to use Telnet for accessing remote systems over untrusted networks unless it's within a secure, controlled environment.
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
 <summary><b><a href=" "> </a></b></summary><br>
 
 
