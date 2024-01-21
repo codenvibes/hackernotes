@@ -543,6 +543,14 @@ A Security Operations Center (SOC) analyst is a cybersecurity professional respo
 </details>
 
 <details>
+<summary><b><a href=" "> </a>shoulder surfing</b></summary><br>
+
+In computer security, shoulder surfing is a type of social engineering technique used to obtain information such as personal identification numbers (PINs), passwords and other confidential data by looking over the victim's shoulder.
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
 <summary><b><a href=" "> </a></b></summary><br>
 
 
