@@ -26,6 +26,18 @@ Ensure you have an image file (`pic.jpg`) and the text file (`hidden.txt`) ready
 <details>
 <summary><b><a href=" ">2. Concatenate Files:</a></b></summary><br>
 
+- Open your terminal.
+- Navigate to the directory containing the files.
+- Use the following command to concatenate the files in respective terminals:
+    - Using Windows Command Prompt (CMD):
+    ```
+    copy /b pic.jpg+hidden.txt new.jpg
+    ```
+    - Using Ubuntu Terminal:
+    ```bash
+    cat pic.jpg hidden.txt > new.jpg
+    ```
+    - 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
