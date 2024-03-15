@@ -55,17 +55,4 @@ Ensure you have an image file (`pic.jpg`) and the text file (`hidden.txt`) ready
 </details>
 
 
-<!-- <br>
-
-**man or help:**
-- `` -->
-
-<br>
-
-## Requirements
-<!-- Add your requirements here -->
-
-<!-- <br>
-
-## More Info -->
 
