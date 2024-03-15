@@ -50,6 +50,8 @@ Ensure you have an image file (`pic.jpg`) and the text file (`hidden.txt`) ready
 <details>
 <summary><b><a href=" "> </a>3. Verify:</b></summary><br>
 
+- Check the directory for the newly created `new.jpg` file.
+- Open the file with an appropriate viewer (like an image viewer or text editor) to verify that the text file is hidden within the image.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
