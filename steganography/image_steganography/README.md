@@ -15,8 +15,9 @@
 <br>
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>1. Prepare Files:</b></summary><br>
 
+Ensure you have an image file (`pic.jpg`) and the text file (`hidden.txt`) ready in the same directory.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
