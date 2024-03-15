@@ -48,7 +48,7 @@ Ensure you have an image file (`pic.jpg`) and the text file (`hidden.txt`) ready
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>3. Verify:</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
