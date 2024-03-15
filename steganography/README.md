@@ -1,4 +1,4 @@
-<h1 align="center"><b>. STEGANOGRAPHY</b></h1>
+<h1 align="center"><b>STEGANOGRAPHY</b></h1>
 
 Steganography is the art of hiding information in plain sight. It involves concealing a secret message within another, unsuspicious piece of media, such as an image, video, or even audio file. 
 
