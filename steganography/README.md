@@ -27,7 +27,7 @@ There are different types of steganography depending on the medium used to hide 
 
 <br>
 
-## Resources
+
 <details>
 <summary><b><a href=" "> </a></b></summary><br>
 
