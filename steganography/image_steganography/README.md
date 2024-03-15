@@ -37,7 +37,11 @@ Ensure you have an image file (`pic.jpg`) and the text file (`hidden.txt`) ready
     ```bash
     cat pic.jpg hidden.txt > new.jpg
     ```
-    - 
+    - Using PowerShell:
+    ```powershell
+    Get-Content pic.jpg, hidden.txt | Set-Content new.jpg
+    ```
+
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
