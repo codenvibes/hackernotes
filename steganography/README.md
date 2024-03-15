@@ -26,6 +26,7 @@ There are different types of steganography depending on the medium used to hide 
 <hr> -->
 
 <br>
+<br>
 
 
 <details>
