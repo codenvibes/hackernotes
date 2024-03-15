@@ -28,7 +28,7 @@ Ensure you have an image file (`pic.jpg`) and the text file (`hidden.txt`) ready
 
 - Open your terminal.
 - Navigate to the directory containing the files.
-- Use the following commands to concatenate the files in respective terminals:<br>
+- Use the following commands to concatenate the files in respective terminals:<br><br>
     - Using Windows Command Prompt (CMD):
     ```
     copy /b pic.jpg+hidden.txt new.jpg
