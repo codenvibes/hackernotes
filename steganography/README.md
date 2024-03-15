@@ -41,7 +41,7 @@ This involves hiding information within text files. Common techniques include:
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Image Steganography:</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
