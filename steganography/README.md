@@ -63,16 +63,22 @@ Secret messages can be hidden within audio files by modifying inaudible portions
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Video Steganography:</a></b></summary><br>
 
+Similar to image steganography, data can be hidden within digital videos. Techniques involve embedding information in:
+* Individual video frames.
+* The audio portion of the video.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Network Steganography:</a></b></summary><br>
 
+This hides data within the communication protocols used for network traffic. Techniques include:
+* Covert channels: Hiding messages within unused fields of network packets.
+* Steganographic tunneling: Encapsulating data within another protocol.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
