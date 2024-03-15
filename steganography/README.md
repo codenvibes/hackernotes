@@ -41,7 +41,7 @@ This involves hiding information within text files. Common techniques include:
 
 
 <details>
-<summary><b><a href=" ">Image Steganography:</a></b></summary><br>
+<summary><b><a href="https://github.com/codenvibes/hackernotes/blob/master/steganography/image_steganography/README.md">Image Steganography:</a></b></summary><br>
 
 This is the most common type, where data is hidden within digital images. Techniques include:
 * **Least Significant Bit (LSB) insertion:** Modifying the least significant bit of each pixel's color value to embed data.
