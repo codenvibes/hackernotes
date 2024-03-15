@@ -30,7 +30,7 @@ There are different types of steganography depending on the medium used to hide 
 
 
 <details>
-<summary><b><a href=" "></a>Text Steganography:</b></summary><br>
+<summary><b><a href=" ">Text Steganography:</a></b></summary><br>
 
 This involves hiding information within text files. Common techniques include:
 * **Line shift steganography:**  Adding extra spaces or line breaks between words to encode a message.
