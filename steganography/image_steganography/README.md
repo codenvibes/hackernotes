@@ -1,5 +1,5 @@
 <h1 align="center"><b>IMAGE STEGANOGRAPHY</b></h1>
-<div align="center"><code></code> <code></code></div>
+<div align="center"><code>Bash</code> <code>Powershell</code> <code>CMD</code></div>
 
 <!-- <br>
 
